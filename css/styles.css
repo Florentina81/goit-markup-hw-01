@@ -130,7 +130,7 @@ h5 {
   line-height: 1.14;
 }
 
-..main-section .main-section-images {
+.main-section .main-section-images {
   background-color: var(--main-first-backround-clr);
 }
 
