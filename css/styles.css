@@ -11,9 +11,6 @@
   --third-clr: #2196f3;
   --link-text-color: #757575;
 }
-* {
-  width: 1600px;
-}
 
 body {
   color: var(--secondary-color);
